@@ -28,7 +28,7 @@ export default function App() {
               <button id="next-quote" onClick={ handleClick }>
                 new quote
               </button>
-              <a href="twitter.com/intent/tweet" target='_blank'>tweet</a>
+              <a href="twitter.com/intent/tweet" target='_blank'>tweet quote</a>
             </div>
           </div>
         </section>
